@@ -1,0 +1,28 @@
+{
+  "name": "acme-users-departments-pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "pg": "^7.12.1",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThompsonHarris/acme-users-departments-pg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThompsonHarris/acme-users-departments-pg/issues"
+  },
+  "homepage": "https://github.com/ThompsonHarris/acme-users-departments-pg#readme"
+}
